@@ -28,7 +28,7 @@
                                 </div>
 
                                 <div>
-                                    <div class="dropdown chat-noti-dropdown">
+                                    {{-- <div class="dropdown chat-noti-dropdown">
                                         <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown"
                                             aria-haspopup="true" aria-expanded="false">
                                             <i class="mdi mdi-dots-horizontal font-size-20"></i>
@@ -38,7 +38,7 @@
                                             <a class="dropdown-item" href="#">Another action</a>
                                             <a class="dropdown-item" href="#">Something else here</a>
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>
@@ -53,12 +53,12 @@
                     </div>
                     <div class="chat-leftsidebar-nav">
                         <ul class="nav nav-pills nav-justified bg-light-subtle">
-                            <li class="nav-item">
+                            {{-- <li class="nav-item">
                                 <a href="#chat" data-bs-toggle="tab" aria-expanded="true" class="nav-link active">
                                     <i class="ri-message-2-line font-size-20"></i>
                                     <span class="mt-2 d-none d-sm-block">Chat</span>
                                 </a>
-                            </li>
+                            </li> --}}
                             <li class="nav-item">
                                 <a href="#group" data-bs-toggle="tab" aria-expanded="false" class="nav-link">
                                     <i class="ri-group-line font-size-20"></i>
@@ -74,7 +74,7 @@
                         </ul>
                     </div>
                 </div>
-
+{{-- 
                 <div class="tab-content pt-4">
                     <div class="tab-pane show active" id="chat">
                         <div>
@@ -371,10 +371,10 @@
                         </div>
 
                     </div>
-                </div>
+                </div> --}}
             </div>
 
-            <div class="w-100 user-chat mt-4 mt-sm-0 card mb-0">
+            {{-- <div class="w-100 user-chat mt-4 mt-sm-0 card mb-0">
                 <div class="card-body">
                     <div class="pb-3 user-chat-border">
                         <div class="row">
@@ -709,7 +709,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
         <!-- end row -->
     @endsection

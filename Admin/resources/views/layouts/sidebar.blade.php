@@ -136,20 +136,6 @@
                         </li>
 
                         <li><a href="calendar">Calendar</a></li>
-
-                        <li><a href="apps-chat">Chat</a></li>
-
-                        <li><a href="apps-file-manager">File Manager</a></li>
-
-
-                        <li>
-                            <a href="javascript: void(0);" class="has-arrow">Invoice</a>
-                            <ul class="sub-menu" aria-expanded="false">
-                                <li><a href="invoices">Invoices</a></li>
-                                <li><a href="invoice-detail">Invoice Detail</a></li>
-                            </ul>
-                        </li>
-
                         <li>
                             <a href="javascript: void(0);" class="has-arrow">Users</a>
                             <ul class="sub-menu" aria-expanded="false">
@@ -159,39 +145,6 @@
                         </li>
                     </ul>
                 </li>
-
-
-                <li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="uim uim-window-grid"></i>
-                        <span>Layouts</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="true">
-                        <li>
-                            <a href="javascript: void(0);" class="has-arrow">Vertical</a>
-                            <ul class="sub-menu" aria-expanded="true">
-                                <li><a href="layouts-dark-sidebar">Dark Sidebar</a></li>
-                                <li><a href="layouts-light-sidebar">Light Sidebar</a></li>
-                                <li><a href="layouts-compact-sidebar">Compact Sidebar</a></li>
-                                <li><a href="layouts-icon-sidebar">Icon Sidebar</a></li>
-                                <li><a href="layouts-boxed">Boxed Layout</a></li>
-                                <li><a href="layouts-preloader">Preloader</a></li>
-                            </ul>
-                        </li>
-
-                        <li>
-                            <a href="javascript: void(0);" class="has-arrow">Horizontal</a>
-                            <ul class="sub-menu" aria-expanded="true">
-                                <li><a href="layouts-horizontal">Horizontal</a></li>
-                                <li><a href="layouts-hori-light-header">Light Header</a></li>
-                                <li><a href="layouts-hori-topbar-dark">Topbar Dark</a></li>
-                                <li><a href="layouts-hori-boxed-width">Boxed width</a></li>
-                                <li><a href="layouts-hori-preloader">Preloader</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-
                 <li class="menu-title">Pages</li>
 
                 <li>
@@ -284,53 +237,6 @@
                         <li><a href="tables-editable">Editable Table</a></li>
                     </ul>
                 </li>
-
-                <li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="uim uim-chart-pie"></i>
-                        <span>Charts</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="true">
-                        <li><a href="javascript: void(0);" class="has-arrow">Apexcharts Part 1</a>
-                            <ul class="sub-menu" aria-expanded="true">
-                                <li><a href="charts-line">Line</a></li>
-                                <li><a href="charts-area">Area</a></li>
-                                <li><a href="charts-column">Column</a></li>
-                                <li><a href="charts-bar">Bar</a></li>
-                                <li><a href="charts-mixed">Mixed</a></li>
-                                <li><a href="charts-timeline">Timeline</a></li>
-                                <li><a href="charts-candlestick">Candlestick</a></li>
-                                <li><a href="charts-boxplot">Boxplot</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="javascript: void(0);" class="has-arrow">Apexcharts Part 2</a>
-                            <ul class="sub-menu" aria-expanded="true">
-                                <li><a href="charts-bubble">Bubble</a></li>
-                                <li><a href="charts-scatter">Scatter</a></li>
-                                <li><a href="charts-heatmap">Heatmap</a></li>
-                                <li><a href="charts-treemap">Treemap</a></li>
-                                <li><a href="charts-pie">Pie</a></li>
-                                <li><a href="charts-radialbar">Radialbar</a></li>
-                                <li><a href="charts-radar">Radar</a></li>
-                                <li><a href="charts-polararea">Polararea</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="charts-echart">E Charts</a></li>
-                    </ul>
-                </li>
-
-                <li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="uim uim-object-ungroup"></i>
-                        <span>Icons</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="false">
-                        <li><a href="icons-remix">Remix Icons</a></li>
-                        <li><a href="icons-materialdesign">Material Design</a></li>
-                        <li><a href="icons-unicons">Unicons</a></li>
-                    </ul>
-                </li>
-
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
                         <i class="uim uim-comment-plus"></i>

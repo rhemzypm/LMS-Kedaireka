@@ -309,7 +309,7 @@
                         </a>
                     </li>
 
-                    <li class="nav-item dropdown">
+                    {{-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-uielement"
                             role="button">
                             <i class="uim uim-layer-group"></i> UI Elements <div class="arrow-down"></div>
@@ -354,9 +354,9 @@
                             </div>
 
                         </div>
-                    </li>
+                    </li> --}}
 
-                    <li class="nav-item dropdown">
+                    {{-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-apps"
                             role="button">
                             <i class="uim uim-comment-message"></i> Apps <div class="arrow-down"></div>
@@ -372,11 +372,11 @@
                                     <a href="email-inbox" class="dropdown-item">Inbox</a>
                                     <a href="email-read" class="dropdown-item">Read Email</a>
                                 </div>
-                            </div>
+                            </div> --}}
 
-                            <a href="calendar" class="dropdown-item">Calendar</a>
+                            {{-- <a href="calendar" class="dropdown-item">Calendar</a>
                             <a href="apps-chat" class="dropdown-item">Chat</a>
-                            <a href="apps-file-manager" class="dropdown-item">File Manager</a>
+                            <a href="apps-file-manager" class="dropdown-item">File Manager</a> --}}
 
                             <div class="dropdown">
                                 <a class="dropdown-item dropdown-toggle arrow-none" href="#"
