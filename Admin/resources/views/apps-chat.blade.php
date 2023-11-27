@@ -53,12 +53,6 @@
                     </div>
                     <div class="chat-leftsidebar-nav">
                         <ul class="nav nav-pills nav-justified bg-light-subtle">
-                            {{-- <li class="nav-item">
-                                <a href="#chat" data-bs-toggle="tab" aria-expanded="true" class="nav-link active">
-                                    <i class="ri-message-2-line font-size-20"></i>
-                                    <span class="mt-2 d-none d-sm-block">Chat</span>
-                                </a>
-                            </li> --}}
                             <li class="nav-item">
                                 <a href="#group" data-bs-toggle="tab" aria-expanded="false" class="nav-link">
                                     <i class="ri-group-line font-size-20"></i>

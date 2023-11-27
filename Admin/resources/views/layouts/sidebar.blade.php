@@ -97,7 +97,6 @@
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href="auth-login">Login</a></li>
-                        <li><a href="auth-register">Register</a></li>
                         <li><a href="auth-recoverpw">Recover Password</a></li>
                         <li><a href="auth-lock-screen">Lock Screen</a></li>
                     </ul>
