@@ -13,7 +13,7 @@
                             <a href="index" class="">
                                 <img src="{{ URL::asset('build/images/logo-dark.png') }}" alt="" height="25"
                                     class="auth-logo logo-dark mx-auto">
-                                <img src="{{ URL::asset('build/images/logo-light.png') }}" alt="" height="25"
+                                <img src="{{ URL::asset('build/images/andamantau.png') }}" alt="" height="25"
                                     class="auth-logo logo-light mx-auto">
                             </a>
                         </div>
@@ -85,7 +85,7 @@
                                     <a href="index" class="">
                                         <img src="{{ URL::asset('build/images/logo-dark.png') }}" alt=""
                                             height="22" class="auth-logo logo-dark mx-auto">
-                                        <img src="{{ URL::asset('build/images/logo-light.png') }}" alt=""
+                                        <img src="{{ URL::asset('build/images/andamantau.png') }}" alt=""
                                             height="22" class="auth-logo logo-light mx-auto">
                                     </a>
                                     <p class="text-muted mt-2">User Experience & Interface Design Strategy Saas Solution</p>

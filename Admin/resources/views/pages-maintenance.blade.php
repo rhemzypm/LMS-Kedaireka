@@ -13,7 +13,7 @@
                             <a href="index" class="">
                                 <img src="{{ URL::asset('build/images/logo-dark.png') }}" alt="" height="25"
                                     class="auth-logo logo-dark mx-auto">
-                                <img src="{{ URL::asset('build/images/logo-light.png') }}" alt="" height="25"
+                                <img src="{{ URL::asset('build/images/andamantau.png') }}" alt="" height="25"
                                     class="auth-logo logo-light mx-auto">
                             </a>
                             <h4 class="mt-4">Site is Under Maintenance</h4>

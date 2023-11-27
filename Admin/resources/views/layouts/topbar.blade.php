@@ -15,7 +15,7 @@
 
                 <a href="index" class="logo logo-light">
                     <span class="logo-sm">
-                        <img src="{{ URL::asset('build/images/logo-light.png') }}" alt="logo-sm-light" height="24">
+                        <img src="{{ URL::asset('build/images/andamantau.png') }}" alt="logo-sm-light" height="24">
                     </span>
                     <span class="logo-lg">
                         <img src="{{ URL::asset('build/images/logo-sm-light.png') }}" alt="logo-light" height="25">

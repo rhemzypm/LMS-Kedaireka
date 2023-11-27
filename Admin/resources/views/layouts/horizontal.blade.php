@@ -18,7 +18,7 @@
                             height="24">
                     </span>
                     <span class="logo-lg">
-                        <img src="{{ URL::asset('build/images/logo-light.png') }}" alt="logo-light" height="22">
+                        <img src="{{ URL::asset('build/images/andamantau.png') }}" alt="logo-light" height="22">
                     </span>
                 </a>
             </div>

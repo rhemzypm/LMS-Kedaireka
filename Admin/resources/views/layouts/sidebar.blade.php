@@ -1,8 +1,8 @@
 <!-- ========== Left Sidebar Start ========== -->
-<div class="vertical-menu">
+<div class="vertical-menu" style="background-color: #2651e9;">
 
     <!-- LOGO -->
-    <div class="navbar-brand-box">
+    <div class="navbar-brand-box" style="background-color: #2651e9;">
         <a href="index" class="logo logo-dark">
             <span class="logo-sm">
                 <img src="{{ URL::asset('build/images/logo-sm-dark.png') }}" alt="logo-sm-dark" height="24">
@@ -17,7 +17,7 @@
                 <img src="{{ URL::asset('build/images/logo-sm-light.png') }}" alt="logo-sm-light" height="24">
             </span>
             <span class="logo-lg">
-                <img src="{{ URL::asset('build/images/logo-light.png') }}" alt="logo-light" height="22">
+                <img src="{{ URL::asset('build/images/andamantau.png') }}" alt="logo-light" height="22">
             </span>
         </a>
     </div>
@@ -40,12 +40,12 @@
                             <div class="avatar-xs rounded-circle flex-shrink-0">
                                 <div
                                     class="avatar-title border bg-light text-primary rounded-circle text-uppercase user-sort-name">
-                                    R</div>
+                                    L</div>
                             </div>
                         </div>
                         <div class="flex-grow-1 ms-2 text-start">
-                            <h6 class="mb-1 fw-medium user-name-text"> Reporting </h6>
-                            <p class="font-size-13 text-muted user-name-sub-text mb-0"> Team Reporting </p>
+                            <h6 class="mb-1 fw-medium user-name-text"> Lecturer </h6>
+                            <p class="font-size-13 text-muted user-name-sub-text mb-0"> Lecture Class Team </p>
                         </div>
                         <div class="flex-shrink-0 text-end">
                             <i class="mdi mdi-chevron-down font-size-16"></i>
@@ -55,58 +55,8 @@
                 <div class="dropdown-menu dropdown-menu-end w-100">
                     <!-- item-->
                     <a class="dropdown-item d-flex align-items-center px-3" href="#">
-                        <div class="flex-shrink-0 me-2">
-                            <div class="avatar-xs rounded-circle flex-shrink-0">
-                                <div class="avatar-title border rounded-circle text-uppercase dropdown-sort-name">C
-                                </div>
-                            </div>
-                        </div>
-                        <div class="flex-grow-1">
-                            <h6 class="mb-0 dropdown-name">CRM</h6>
-                            <p class="text-muted font-size-13 mb-0 dropdown-sub-desc">Designer Team</p>
-                        </div>
                     </a>
                     <a class="dropdown-item d-flex align-items-center px-3" href="#">
-                        <div class="flex-shrink-0 me-2">
-                            <div class="avatar-xs rounded-circle flex-shrink-0">
-                                <div class="avatar-title border rounded-circle text-uppercase dropdown-sort-name">A
-                                </div>
-                            </div>
-                        </div>
-                        <div class="flex-grow-1">
-                            <h6 class="mb-0 dropdown-name">Application Design</h6>
-                            <p class="text-muted font-size-13 mb-0 dropdown-sub-desc">Flutter Devs</p>
-                        </div>
-                    </a>
-
-                    <a class="dropdown-item d-flex align-items-center px-3" href="#">
-                        <div class="flex-shrink-0 me-2">
-                            <div class="avatar-xs rounded-circle flex-shrink-0">
-                                <div class="avatar-title border rounded-circle text-uppercase dropdown-sort-name">E
-                                </div>
-                            </div>
-                        </div>
-                        <div class="flex-grow-1">
-                            <h6 class="mb-0 dropdown-name">Ecommerce</h6>
-                            <p class="text-muted font-size-13 mb-0 dropdown-sub-desc">Developer Team</p>
-                        </div>
-                    </a>
-
-                    <a class="dropdown-item d-flex align-items-center px-3" href="#">
-                        <div class="flex-shrink-0 me-2">
-                            <div class="avatar-xs rounded-circle flex-shrink-0">
-                                <div class="avatar-title border rounded-circle text-uppercase dropdown-sort-name">R
-                                </div>
-                            </div>
-                        </div>
-                        <div class="flex-grow-1">
-                            <h6 class="mb-0 dropdown-name">Reporting</h6>
-                            <p class="text-muted font-size-13 mb-0 dropdown-sub-desc">Team Reporting</p>
-                        </div>
-                    </a>
-
-                    <a class="btn btn-sm btn-link font-size-14 text-center w-100" href="javascript:void(0)">
-                        View More..
                     </a>
                 </div>
             </div>
@@ -128,21 +78,14 @@
                     </a>
                     <ul class="sub-menu" aria-expanded="true">
                         <li>
-                            <a href="javascript: void(0);" class="has-arrow">Email</a>
+                            <a href="javascript: void(0);" class="has-arrow">Kelas</a>
                             <ul class="sub-menu" aria-expanded="false">
-                                <li><a href="email-inbox">Inbox</a></li>
-                                <li><a href="email-read">Read Email</a></li>
+                                <li><a href="email-inbox">Daftar Kelas</a></li>
+                                <li><a href="email-read">Detail Kelas</a></li>
                             </ul>
                         </li>
 
                         <li><a href="calendar">Calendar</a></li>
-                        <li>
-                            <a href="javascript: void(0);" class="has-arrow">Users</a>
-                            <ul class="sub-menu" aria-expanded="false">
-                                <li><a href="users-list">Users List</a></li>
-                                <li><a href="users-detail">Users Detail</a></li>
-                            </ul>
-                        </li>
                     </ul>
                 </li>
                 <li class="menu-title">Pages</li>
@@ -237,33 +180,6 @@
                         <li><a href="tables-editable">Editable Table</a></li>
                     </ul>
                 </li>
-                <li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="uim uim-comment-plus"></i>
-                        <span>Maps</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="false">
-                        <li><a href="maps-google">Google Maps</a></li>
-                        <li><a href="maps-vector">Vector Maps</a></li>
-                    </ul>
-                </li>
-
-                <li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="uim uim-layers-alt"></i>
-                        <span>Multi Level</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="true">
-                        <li><a href="javascript: void(0);">Level 1.1</a></li>
-                        <li><a href="javascript: void(0);" class="has-arrow">Level 1.2</a>
-                            <ul class="sub-menu" aria-expanded="true">
-                                <li><a href="javascript: void(0);">Level 2.1</a></li>
-                                <li><a href="javascript: void(0);">Level 2.2</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-
             </ul>
 
         </div>
