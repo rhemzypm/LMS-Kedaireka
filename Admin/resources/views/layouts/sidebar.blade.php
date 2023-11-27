@@ -111,13 +111,10 @@
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href="pages-starter">Starter Page</a></li>
                         <li><a href="pages-maintenance">Maintenance</a></li>
-                        <li><a href="pages-comingsoon">Coming Soon</a></li>
                         <li><a href="pages-404">Error 404</a></li>
                         <li><a href="pages-500">Error 500</a></li>
                         <li><a href="pages-faq">(Help Center) FAQ</a></li>
                         <li><a href="pages-profile">Profile</a></li>
-                        <li><a href="pages-pricing">Pricing</a></li>
-                        <li><a href="pages-terms-conditions">Terms & Conditions</a></li>
                     </ul>
                 </li>
 
