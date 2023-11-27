@@ -41,7 +41,7 @@
                                                     <div class="user-thumb text-center my-4">
                                                         <img src="{{ URL::asset('build/images/users/avatar-2.jpg') }}"
                                                             class="rounded-circle img-thumbnail avatar-md" alt="thumbnail">
-                                                        <h5 class="font-size-15 mt-2">Steven Deese</h5>
+                                                        <h5 class="font-size-15 mt-2">Devi Fitrianah</h5>
                                                     </div>
 
                                                     <form action="index" class="auth-input">

@@ -192,7 +192,7 @@
                 </div>
 
                 <div class="flex-grow-1 ms-2 text-start">
-                    <span class="ms-1 fw-medium user-name-text">Steven Deese</span>
+                    <span class="ms-1 fw-medium user-name-text">Devi Fitrianah</span>
                 </div>
 
                 <div class="flex-shrink-0 text-end">

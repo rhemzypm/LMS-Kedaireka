@@ -33,7 +33,7 @@
                             <div class="col-sm-6">
                                 <div class="text-muted">
                                     <h5 class="font-size-16 mb-3">Billed To:</h5>
-                                    <h5 class="font-size-15 mb-1">Steven Deese</h5>
+                                    <h5 class="font-size-15 mb-1">Devi Fitrianah</h5>
                                     <p class="mb-0">4068 Post Avenue Newfolden, MN 56738</p>
                                     <p class="mb-0">stevendeese@armyspy.com</p>
                                     <p class="mb-0">001-234-5678</p>

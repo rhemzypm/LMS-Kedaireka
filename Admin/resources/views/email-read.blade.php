@@ -153,7 +153,7 @@
                                 <img class="me-3 rounded-circle avatar-sm" src="{{ URL::asset('build/images/users/avatar-2.jpg') }}"
                                     alt="Generic placeholder image">
                                 <div class="flex-1">
-                                    <h5 class="font-size-14 mt-1 mb-0">Steven Deese</h5>
+                                    <h5 class="font-size-14 mt-1 mb-0">Devi Fitrianah</h5>
                                     <small class="text-muted font-size-13">support@domain.com</small>
                                 </div>
                             </div>

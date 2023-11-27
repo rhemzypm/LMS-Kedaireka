@@ -14,7 +14,18 @@
     <body data-sidebar="colored">
     @endsection
     @section('content')
-            
+            <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <h5 class="card-header">Kelas Mendatang</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">9:30 AM (Dalam 30 menit lagi)</h5>
+                        <p class="card-text">LB01 - Internet Untuk Bisnis - Sosial media mendukung bisnis UMKM</p>
+                        <a href="#" class="btn" style="background-color: #2651e9; color: #ffffff;">Masuk Kelas</a>
+                    </div>
+                </div>
+            </div>
+        </div>        
         <!-- END ROW -->
     @endsection
     @section('scripts')

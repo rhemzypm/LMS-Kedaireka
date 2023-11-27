@@ -22,7 +22,7 @@
                                 <img src="{{ URL::asset('build/images/users/avatar-2.jpg') }}" alt=""
                                     class="avatar-lg rounded-circle img-thumbnail">
                             </div>
-                            <h5 class="mt-3 mb-1">Steven Deese</h5>
+                            <h5 class="mt-3 mb-1">Devi Fitrianah</h5>
                             <p class="text-muted">UI/UX Designer</p>
                             <p class="text-muted mb-1">
                                 It will be as simple as occidental in fact, it will be Occidental. To an English person, it
