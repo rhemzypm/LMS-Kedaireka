@@ -10,11 +10,10 @@
     Dashboard
 @endsection
 @section('body')
-
     <body data-sidebar="colored">
     @endsection
     @section('content')
-            <div class="row">
+        <div class="row">
             <div class="col-lg-12">
                 <div class="card">
                     <h5 class="card-header">Kelas Mendatang</h5>
@@ -25,7 +24,33 @@
                     </div>
                 </div>
             </div>
-        </div>        
+        </div>
+
+        <!-- Kartu baru 1 -->
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="card">
+                    <h5 class="card-header">Tugas Hari Ini</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">Deadline 3:00 PM</h5>
+                        <p class="card-text">Mengerjakan tugas tentang topik tertentu.</p>
+                        <a href="#" class="btn btn-success">Lihat Tugas</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Kartu baru 2 -->
+            <div class="col-lg-6">
+                <div class="card">
+                    <h5 class="card-header">Acara Kampus</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">12:00 PM</h5>
+                        <p class="card-text">Diskusi panel tentang inovasi di dunia teknologi.</p>
+                        <a href="#" class="btn btn-warning">Lihat Detail</a>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- END ROW -->
     @endsection
     @section('scripts')
