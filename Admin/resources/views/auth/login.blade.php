@@ -24,7 +24,7 @@
                                 <div class="card my-auto overflow-hidden">
                                     <div class="row g-0">
                                         <div class="col-lg-6">
-                                            <div class="bg-overlay bg-primary"></div>
+                                            <div class="bg-overlay bg-primart"></div>
                                             <div class="h-100 bg-auth align-items-end">
                                             </div>
                                         </div>
