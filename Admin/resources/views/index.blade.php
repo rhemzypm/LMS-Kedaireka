@@ -51,6 +51,19 @@
                 </div>
             </div>
         </div>
+
+        <div class="row mt-4">
+            <div class="col-lg-6">
+                <div class="card">
+                    <h5 class="card-header">Forum</h5>
+                    <div class="card-body">
+                        <h5 class="card-title">2:00 PM</h5>
+                        <p class="card-text">Presentasi mahasiswa tentang proyek terkini.</p>
+                        <a href="#" class="btn btn-info">Lihat Detail</a>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- END ROW -->
     @endsection
     @section('scripts')

@@ -4,7 +4,7 @@
 @endsection
 @section('content')
     <div class="auth-maintenance d-flex align-items-center min-vh-100">
-        <div class="bg-overlay bg-light"></div>
+        <div class="bg-overlay" style="background-color: #2651e9; color: #ffffff;"></div>
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-10">
